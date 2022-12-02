@@ -90,9 +90,9 @@ deliverables.
 
 3. In addition to adding the character to the `div#character-bar` upon
    submitting the form, the character's details should show up immediately in
-   the `div#detailed-info`.
+   the `div#dled-info`.
 
-### Extra Bonus
+
 
 These extra bonus deliverables involve using `fetch` to update data on the
 `json-server` backend by using `POST`, `PATCH`, and `DELETE` requests. These are
@@ -115,7 +115,7 @@ deliverables!**
    Request Body: {
      "votes": 100
    }
-   ----
+   
 
    Example Response: {
      "id": 1,
@@ -123,7 +123,7 @@ deliverables!**
      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
      "votes": 100
    }
-   ```
+   
 
 2. When a user adds a new character to the page using the character form, in
    addition to having the character show up on the page, it should **also** be
