@@ -1,0 +1,24 @@
+html {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .logo{
+    text-align: center;
+    background-color: rgb(179, 49, 162);
+    color: white;
+    padding: 0.5em;
+  }
+  
+  #character-bar {
+    height: 15vh;
+    background: rgb(179, 49, 136);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 3vh;
+  }
